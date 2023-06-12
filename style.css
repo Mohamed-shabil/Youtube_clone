@@ -207,9 +207,9 @@ aside ul li a{
     font-weight: 400;
 }
 article{
-    max-width: 340px;
+    max-width: 330px;
     width: auto;
-    height: 320px;
+    height: 310px;
 }
 article .media{
     padding: 0;
